@@ -1,6 +1,9 @@
 lol768's ten.java submission
 ==============================
 
+lol768 can not do this because he will make himself win because he is bad
+==============================
+
 [![ten.java](https://cdn.mediacru.sh/hu4CJqRD7AiB.svg)](https://tenjava.com/)
 
 This is a submission for the 2014 ten.java contest.
